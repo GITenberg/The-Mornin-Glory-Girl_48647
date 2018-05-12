@@ -1,4 +1,8 @@
 _repo: The-Mornin-Glory-Girl_48647
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48647-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Winlow, Alice Maud
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44901'
     url: http://www.gutenberg.org/2009/agents/44901
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48647#The-Mornin-Glory-Girl
 gutenberg_issued: '2015-04-06'
 gutenberg_type: Text
 identifiers:
